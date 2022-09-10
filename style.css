@@ -1,0 +1,47 @@
+body {
+    margin:0;
+}
+
+h1{
+    background-color: darkcyan;
+    color: lightsalmon;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+
+main{
+    background-color: lightyellow;
+    width: 600px;
+    padding: 25px 25px 25px 25px;
+    border: solid red 5px;
+    margin: 100px auto;
+
+}   
+
+footer{
+    background-color: darkolivegreen;
+    color: lightblue;
+    text-align: center;
+    padding: 25px;
+    margin-top: 25px;
+
+
+}
+ 
+.columns{
+
+    width:600px;
+    display: flex ; 
+    text-align: center;
+    padding: 75px 0;
+}
+
+.column{
+
+    border: lightcoral 2px solid;
+    margin: 5px;
+    text-align: center;
+    
+}
